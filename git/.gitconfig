@@ -1,0 +1,12 @@
+[user]
+	name = Weder Ribas
+	email = me@wederribas.com
+[color]
+	ui = auto
+[alias]
+	st = status
+	cm = commit
+    pso = push
+    psfo = push --force
+    psuo = push origin --set-upstream
+    co = checkout
