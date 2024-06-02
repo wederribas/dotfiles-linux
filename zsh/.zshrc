@@ -103,3 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # HomeLab SSH alias
 alias homelab="ssh -p 22 weder@192.168.1.99"
 
+# Autojump
+[ -f /usr/share/autojump/autojump.bash ] && . /usr/share/autojump/autojump.bash
+
